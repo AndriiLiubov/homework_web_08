@@ -1,0 +1,10 @@
+async-timeout 4.0.3
+dnspython     2.6.1
+dotenv        0.0.5
+mongoengine   0.28.2
+pip           24.0
+pymongo       4.6.3
+python-dotenv 1.0.1
+redis         5.0.3
+redis-lru     0.1.2
+setuptools    57.4.0
